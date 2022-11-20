@@ -1,0 +1,2 @@
+../Core/Src/fsm_automatic.c:11:6:automatic_run	8	static
+../Core/Src/fsm_automatic.c:32:6:fsm_automatic_run	8	static
